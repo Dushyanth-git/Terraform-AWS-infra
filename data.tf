@@ -3,6 +3,6 @@ data "aws_ami" "ubuntu" {
     owners = ["099720109477"]
     filter {
         name = "name"
-        values = ["ubuntu/images/hvm-ssd/ubuntu-jimmy-*-amd64-server-*"]
+        values = ["ubuntu/images/hvm-ssd/ubuntu-jammy-*-amd64-server-*"]
     }
 }
