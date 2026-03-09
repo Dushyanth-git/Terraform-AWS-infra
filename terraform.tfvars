@@ -1,2 +1,2 @@
-aws_region = "ap-southeast-2a"
+aws_region = "ap-southeast-2"
 instance_type = "t2.micro"
